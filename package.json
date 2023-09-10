@@ -1,0 +1,33 @@
+{
+  "name": "ua2latin",
+  "version": "1.0.0",
+  "description": "Transliteration of the Ukrainian Cyrillic alphabet to Latin alphabet",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sikrinick/ua2latin.git"
+  },
+  "keywords": [
+    "transliteration", "translit", "транслітерація", "трансліт",
+    "ukrainian", "uk-UA", "Ukraine", "українська", "Україна"
+  ],
+  "author": {
+    "name": "Mykyta Sikriier",
+    "email": "sikrinick@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sikrinick/ua2latin/issues"
+  },
+  "homepage": "https://github.com/sikrinick/ua2latin#readme",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4",
+    "ts-jest": "^29.1.1"
+  }
+}
