@@ -22,6 +22,8 @@ npm -i ua2latin
 ## Examples
 
 ```ts
+import {transliterateUaToLatin} from "ua2latin";
+
 const lastName = transliterateUaToLatin("Лебігович")
 console.log(lastName) // "Lebihovych"
 ```
