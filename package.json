@@ -1,6 +1,6 @@
 {
   "name": "ua2latin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transliteration of the Ukrainian Cyrillic alphabet to Latin alphabet",
   "main": "index.ts",
   "repository": {
