@@ -16,7 +16,7 @@ Quality assurance can be done on a web-page of [State Migration Service of Ukrai
 ## Installation
 
 ```shell
-npm -i ua2latin
+npm i ua2latin
 ```
 
 ## Examples
